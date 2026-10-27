@@ -1,0 +1,564 @@
+body {
+  background: url("../../public/images/shel.jpeg");
+  background-position-y: 50px;
+  background-position-x: center;
+  background-size: 100vw;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100vw;
+}
+
+#learn-more-ttt {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-ttt:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-awfulix {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-awfulix:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-broad-city {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-broad-city:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-plantastic {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-plantastic:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-loxa {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-loxa:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-10k {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-10k:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-ttt-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-ttt-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-awfulix-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-awfulix-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-broad-city-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-broad-city-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-plantastic-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-plantastic-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-loxa-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-loxa-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#learn-more-10k-m {
+  color: grey;
+  border-color: grey;
+  background-color: white;
+}
+
+#learn-more-10k-m:hover {
+  text-decoration: none;
+  color: lime;
+  border-color: lime;
+}
+
+#try-ttt {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-ttt:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-awfulix {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-awfulix:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-broad-city {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-broad-city:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-plantastic {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-plantastic:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-loxa {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-loxa:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-10k {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-10k:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-ttt-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-ttt-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-awfulix-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-awfulix-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-broad-city-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-broad-city-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-plantastic-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-plantastic-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-loxa-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-loxa-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#try-10k-m {
+  color: white;
+  border-color: grey;
+  background-color: grey;
+}
+
+#try-10k-m:hover {
+  background-color: lime;
+  color: white;
+  border-color: lime;
+}
+
+#headerMdUp h1 {
+  text-align: right;
+  color: white;
+  text-shadow: 3px 3px 6px lime;
+  margin-top: 5%;
+  margin-bottom: 20%;
+  margin-right: 3%;
+  font-size: 75px;
+  font-family: "Lobster", serif;
+}
+
+#headerSmDown h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px lime;
+  margin-top: 35%;
+  margin-right: 0 !imporant;
+  font-size: 50px;
+  font-family: "Lobster", serif;
+}
+
+.project-titles {
+  font-family: "Amatic SC", serif;
+  color: grey;
+  font-size: 35px;
+}
+
+nav {
+  position: fixed;
+}
+
+nav ul li:hover {
+  background-color: grey;
+}
+
+.body-pad {
+  margin-top: 45px;
+  background-color: white;
+  z-index: 1;
+  width: 100vw;
+}
+
+.project-info {
+  margin-bottom: 200px;
+  text-align: center;
+}
+
+.main-titles {
+  font-family: "Rokkit", serif;
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  display: block;
+}
+
+#projects {
+  margin-top: 36vw;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+#about-me img {
+  border-radius: 100%;
+  text-align: center;
+}
+
+#icons {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#about-me {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.bio {
+  color: grey;
+  weight: bold;
+}
+
+#resume {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+#loxa-img {
+  padding-bottom: 80px;
+}
+hr {
+  margin-bottom: 100px;
+}
+
+.item {
+  margin: 10px;
+}
+
+.carousel-inner {
+  padding-bottom: 50px;
+  height: 450px;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
+
+.carousel-control.left {
+  background: none;
+  color: grey;
+  margin-left: -60px;
+  margin-bottom: 200px;
+}
+
+.carousel-control.right {
+  background: none;
+  color: grey;
+  margin-right: -60px;
+  margin-bottom: 200px;
+}
+
+.carousel-control.left:hover {
+  background: none;
+  color: lime;
+}
+
+.carousel-control.right:hover {
+  background: none;
+  color: lime;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #000\9;
+  background-color: rgba(0, 0, 0, 0);
+  border: 6px solid lightgrey;
+  border-radius: 10px;
+  margin-bottom: -20px;
+}
+
+.carousel-indicators li.active {
+  margin-bottom: -20px;
+  border-radius: 0px;
+  border-radius: 10px;
+}
+
+.carousel-indicators li:hover {
+  border: 6px solid lime;
+}
+
+@font-face {
+  font-family: "si";
+  src: url("socicon/socicon.eot");
+  src:
+    url("socicon/socicon.eot?#iefix") format("embedded-opentype"),
+    url("socicon/socicon.woff") format("woff"),
+    url("socicon/socicon.ttf") format("truetype"),
+    url("socicon/socicon.svg#icomoonregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: si;
+    src: url("socicon/socicon.svg") format(svg);
+  }
+}
+
+.soc {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.soc li {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+
+.soc li a {
+  font-family: si !important;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -o-transition: 0.1s;
+  -ms-transition: 0.1s;
+  -moz-transition: 0.1s;
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  position: relative;
+  z-index: 1;
+  width: 43px;
+  height: 43px;
+  line-height: 43px;
+  font-size: 23px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  margin-right: 22px;
+  color: #ffffff;
+  background-color: grey;
+}
+
+.soc-icon-last {
+  margin: 0 !important;
+}
+.soc-twitter:before {
+  content: "a";
+}
+.soc-twitter:hover {
+  background-color: white;
+  color: lime;
+}
+.soc-linkedin:before {
+  content: "j";
+}
+.soc-linkedin:hover {
+  background-color: white;
+  color: lime;
+}
+.soc-github:before {
+  content: "Q";
+}
+.soc-github:hover {
+  background-color: white;
+  color: lime;
+}
+.soc-instagram:before {
+  content: "x";
+}
+.soc-instagram:hover {
+  background-color: white;
+  color: lime;
+}
+.soc-email2:before {
+  content: ".";
+}
+.soc-email2:hover {
+  background-color: white;
+  color: lime;
+}
