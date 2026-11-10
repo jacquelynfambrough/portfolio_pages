@@ -8,6 +8,17 @@ body {
   width: 100vw;
 }
 
+/* OLD CSS - TO REBUILD */
+/* .card {
+  border: 2px solid #333333;
+  display: block;
+}
+
+.container-fluid.ps-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
 #learn-more-ttt {
   color: grey;
   border-color: grey;
@@ -355,6 +366,7 @@ nav ul li:hover {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
+  width: 100vw;
 }
 
 #about-me img {
@@ -507,4 +519,4 @@ hr {
 .soc-email2:hover {
   background-color: white;
   color: lime;
-}
+} */
