@@ -8,6 +8,11 @@ body {
   width: 100vw;
 }
 
+#about-me {
+  padding-left: 30%;
+  padding-top: 200px;
+  padding-bottom: 50px;
+}
 /* OLD CSS - TO REBUILD */
 /* .card {
   border: 2px solid #333333;
