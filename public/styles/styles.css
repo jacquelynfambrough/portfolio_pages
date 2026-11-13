@@ -32,6 +32,17 @@ body {
 
 #footer {
   background-color: #a67649;
+  padding-top: 20px;
+}
+
+.social-icons {
+  width: 40px;
+  padding-top: 15px;
+}
+
+.newsletter-description {
+  padding-top: 10px;
+  padding-right: 100px;
 }
 
 #footer-decoration {
