@@ -33,6 +33,7 @@ body {
 #footer {
   background-color: #a67649;
   padding-top: 20px;
+  padding-bottom: 25px;
 }
 
 .social-icons {
@@ -41,7 +42,7 @@ body {
 }
 
 .newsletter-description {
-  padding-top: 10px;
+  padding-top: 30px;
   padding-right: 100px;
 }
 
@@ -51,9 +52,14 @@ body {
   background-position: bottom;
   background-size: contain;
   repeat: no-repeat;
-  height: 60px;
+  height: 40px;
 }
 
+@media (max-width: 550px) {
+  #footer-decoration {
+    height: 28px;
+  }
+}
 /* OLD CSS - TO REBUILD */
 /* .card {
   border: 2px solid #333333;
