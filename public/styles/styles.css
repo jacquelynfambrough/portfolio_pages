@@ -1,17 +1,21 @@
 body {
-  background: url("../../public/images/placeholder_wood.png");
+  background: url("../../public/images/wood-panel.jpg");
   background-position-y: 50px;
   background-position-x: center;
-  background-size: 100vw;
+  background-size: 10%;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   width: 100vw;
-  background-color: #a67649;
+  /* background-color: #a67649; */
 }
 
 #about-me {
   padding-top: 200px;
   padding-bottom: 50px;
+}
+
+.thumbnail-grid {
+  --bs-columns: 3;
 }
 
 #footer-stripe-red {
@@ -30,7 +34,7 @@ body {
 }
 
 #footer {
-  background-color: #a67649;
+  /* background-color: #a67649; */
   padding-top: 20px;
   padding-bottom: 25px;
 }
@@ -46,7 +50,7 @@ body {
 }
 
 #footer-decoration {
-  background-color: #a67649;
+  /* background-color: #a67649; */
   background: url("../images/carpet.png");
   background-position: bottom;
   background-size: contain;
@@ -54,7 +58,12 @@ body {
   height: 40px;
 }
 
+/* MOBILE MEDIA QUERIES */
 @media (max-width: 550px) {
+  .thumbnail-grid {
+    --bs-columns: 1;
+  }
+
   #footer-decoration {
     height: 28px;
   }
